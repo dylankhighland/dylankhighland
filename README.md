@@ -10,6 +10,7 @@ The code hosted here depicts the general workflow of past and current projects o
 
 # Relevant links
 [Google Scholar](https://scholar.google.com/citations?user=q6gmqCsAAAAJ&hl=en)
+
 [LinkedIn](https://www.linkedin.com/in/dylanhighland/)
 
 

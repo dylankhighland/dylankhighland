@@ -6,7 +6,7 @@ My current research is on the population genomics of venom within the speckled r
 The code hosted here depicts the general workflow of past and current projects of mine. If you have any questions, or are looking for collaborations, please don't hesitate to reach out!
 
 # Publications
-2. Schield, D.R., J.K. Carter, M.G. Alderman, K. Farleigh, *D.K. Highland*, and R.J. Safran. 2025. Recombination rate and recurrent linked selection shape correlated genomic landscapes across a continuum of divergence in swallows. _[Molecular Ecology.]({https://onlinelibrary.wiley.com/doi/10.1111/mec.70074)_
+2. Schield, D.R., J.K. Carter, M.G. Alderman, K. Farleigh, *D.K. Highland*, and R.J. Safran. 2025. Recombination rate and recurrent linked selection shape correlated genomic landscapes across a continuum of divergence in swallows. _[Molecular Ecology]({https://onlinelibrary.wiley.com/doi/10.1111/mec.70074)._
 
 1. *Highland, D.K.* and E.A. Myers. In press. Mitochondrial phylogeny and molecular-based species delimitation illuminate cryptic diversity in saw-scaled vipers (Viperidae; _Echis_). _The Herpetological Journal_. 
 
